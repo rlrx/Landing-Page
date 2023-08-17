@@ -1,0 +1,1 @@
+This is a project to create an entire web page from a provided design from scratch using HTML, CSS and Flexbox skills learnt in the Odin Project Fundamentals Course.
